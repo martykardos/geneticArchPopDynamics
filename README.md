@@ -1,5 +1,7 @@
 # geneticArchPopDynamics
-pedR_0.1.5.tar.gz is an R package for forward -time individual-based simulations of selection on a quantitative trait with linkage; this was used for the forward-time simulations that included linkage in our paper. quantPop_0.1.5.tar.gz is an R package implementation of the deterministic eco-evolutionary models, and the individual-based simulations of selection on a quantitative trait without linkage used in our paper.
+pedR_0.1.5.tar.gz is an R package for forward -time individual-based simulations of selection on a quantitative trait with linkage; this was used for the forward-time simulations that included linkage in our paper. 
+
+quantPop_0.1.5.tar.gz is an R package implementation of the deterministic eco-evolutionary models, and the individual-based simulations of selection on a quantitative trait without linkage used in our paper.
 
 rCode_deterministicPopDynamicsExamples_27May2019.R is an R script with example scenarios of the deterministic models. 
 
